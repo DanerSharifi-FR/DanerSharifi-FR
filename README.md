@@ -100,24 +100,10 @@ Currently working as an **Apprentice Software Engineer**, I build and maintain b
 
 I'm currently improving my skills around:
 
+- Preparing for the **AWS Certified Cloud Practitioner** certification
+- Cloud infrastructure concepts
 - Containerised application deployment
 - CI/CD automation
-- Cloud and infrastructure concepts
 - Backend architecture
 - Data-oriented systems
 - Production-ready development workflows
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanerSharifi-FR&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanerSharifi-FR&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center">
-  <em>Building, learning, improving.</em>
-</p>
